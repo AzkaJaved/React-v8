@@ -18,3 +18,12 @@ npm install -D eslint-plugin-import@2.26.0 eslint-plugin-jsx-a11y@6.6.1 eslint-p
 8-setup eslint rules for hooks:
 npm install -D eslint-plugin-react-hooks@4.6.0
 !!... !! ... !! ...!! ...!! ...!!setup complete !!... !! ...!! ...!!...!!...!!
+install react-router-dom
+... !!...!!... !!...!!...!!...!!...!!
+useParams provides us with searchParams in our url ...these search params are available to us in context by BrouserRouter
+hardest part about react is use-effect ...so using react query will remove useEffect from your react code reqct query will basically handle all the api requests for you.
+React query will handle and cache all the api request for you ...react query caches all the request in memory.React Query is a JavaScript library designed to simplify the complex task of data fetching and caching in React applications.
+install react query ... npm install @tanstack/react-query@4.10.1
+!!...!!...!!...!!...!!...!!...!!
+1- instantiate query provide
+2-
